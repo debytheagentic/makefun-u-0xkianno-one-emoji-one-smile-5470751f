@@ -1,7 +1,7 @@
 """One Emoji, One Smile — writes a single emoji to entry.txt."""
 import os
 
-ENTRY = "😊"
+ENTRY = "😄"
 
 
 def main() -> int:
